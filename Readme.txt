@@ -11,6 +11,3 @@ password:password
 
 user:joey
 password:password
-
-user:manav
-password:password
